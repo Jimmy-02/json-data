@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "nguyenvana",
+      "email": "a@example.com",
+      "description": "Backend developer",
+      "avatar_url": "https://i.pravatar.cc/300?img=1",
+      "hobby": "Đhơi game"
+    },
+    {
+      "id": 2,
+      "username": "levanb",
+      "email": "b@example.com",
+      "description": "Sinh viên năm thứ 10 UEH",
+      "avatar_url": "https://i.pravatar.cc/300?img=2",
+      "hobby": "Nghe nhạc, du lịch"
+    },
+    {
+      "id": 3,
+      "username": "dovanc",
+      "email": "c@example.com",
+      "description": "Fullstack dev",
+      "avatar_url": "https://i.pravatar.cc/300?img=3",
+      "hobby": "Bóng đá, cà phê"
+    }
+  ]
+}
